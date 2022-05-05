@@ -3,9 +3,13 @@
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
 
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+
 /* Home */
 @import "./home/introducao.css";
-@import "./bicicletas/bicicletas-lista.css";
+@import "./home/tecnologia.css";
+
 
 /* Utilidades */
 @import "./utilidades/componentes.css"
