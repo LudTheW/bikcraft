@@ -26,10 +26,6 @@
   position: relative;
 }
 
-.depoimento-conteudo span {
-  padding-left: 35px;
-}
-
 .depoimento-conteudo p:before,
 .depoimento-conteudo p:after {
   color: var(--cor-p2);
