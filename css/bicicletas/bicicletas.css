@@ -65,6 +65,10 @@
   gap: 16px;
 }
 
+#bicicleta .bicicletas-lista ul {
+  padding: 0 0 20px 0;
+}
+
 .bicicletas li {
   display: flex;
   align-items: center;
